@@ -28,6 +28,9 @@ I accept the following commands:
 end
 
 def list(songs_array)
+  songs_array.each_with_index do |song, index|
+    puts "#{index+1}. #{song}"
+  end
 end
 
 
