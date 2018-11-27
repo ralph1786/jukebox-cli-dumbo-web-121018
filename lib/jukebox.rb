@@ -45,8 +45,6 @@ def play(songs_array)
   end
 end
 
-play("Amos Lee")
-
 
 
 
