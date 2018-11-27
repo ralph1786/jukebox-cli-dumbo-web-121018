@@ -50,7 +50,6 @@ def exit_jukebox
 end
 
 def run(songs)
-  # help
   users_response = ""
   while users_response
     puts "Please enter a command:"
