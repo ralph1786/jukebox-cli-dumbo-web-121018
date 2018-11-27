@@ -26,5 +26,9 @@ I accept the following commands:
 - play : lets you choose a song to play
 - exit : exits this program"
 end
-help 
+
+def list(songs_array)
+end
+
+
 
